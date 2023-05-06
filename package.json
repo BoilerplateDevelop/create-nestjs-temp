@@ -1,0 +1,19 @@
+{
+  "name": "create-nestjs-temp",
+  "version": "1.0.0",
+  "description": "Nestjs boilerplate",
+  "bin": {
+    "create-nestjs-temp": "./bin/generate-app.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoilerplateDevelop/nestjs-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoilerplateDevelop/nestjs-template/issues"
+  },
+  "homepage": "hhttps://github.com/BoilerplateDevelop/nestjs-template#readme"
+}
