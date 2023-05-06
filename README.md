@@ -29,7 +29,7 @@
 ## Create boilderplate
 
 ```bash
-$ npx @sch/create-nestjs <folder_name>
+$ npx create-nestjs-temp <folder_name>
 ```
 
 
