@@ -1,6 +1,6 @@
 {
   "name": "create-nestjs-temp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nestjs boilerplate",
   "bin": {
     "create-nestjs-temp": "./bin/generate-app.js"
